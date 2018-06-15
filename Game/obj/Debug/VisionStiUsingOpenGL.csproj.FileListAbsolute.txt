@@ -1,0 +1,14 @@
+H:\VsTests\Game\Game\bin\Debug\Game.exe.config
+H:\VsTests\Game\Game\bin\Debug\Game.exe
+H:\VsTests\Game\Game\bin\Debug\Game.pdb
+H:\VsTests\Game\Game\bin\Debug\Tao.FreeGlut.dll
+H:\VsTests\Game\Game\bin\Debug\Tao.OpenGl.dll
+H:\VsTests\Game\Game\bin\Debug\Tao.Platform.Windows.dll
+H:\VsTests\Game\Game\bin\Debug\Tao.FreeGlut.xml
+H:\VsTests\Game\Game\bin\Debug\Tao.OpenGl.xml
+H:\VsTests\Game\Game\bin\Debug\Tao.Platform.Windows.xml
+H:\VsTests\Game\Game\obj\Debug\Game.Form1.resources
+H:\VsTests\Game\Game\obj\Debug\Game.Properties.Resources.resources
+H:\VsTests\Game\Game\obj\Debug\VisionStiUsingOpenGL.csproj.GenerateResource.Cache
+H:\VsTests\Game\Game\obj\Debug\Game.exe
+H:\VsTests\Game\Game\obj\Debug\Game.pdb
