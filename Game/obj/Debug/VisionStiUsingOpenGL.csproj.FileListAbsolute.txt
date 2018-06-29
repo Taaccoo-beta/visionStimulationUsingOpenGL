@@ -12,3 +12,12 @@ H:\VsTests\Game\Game\obj\Debug\Game.Properties.Resources.resources
 H:\VsTests\Game\Game\obj\Debug\VisionStiUsingOpenGL.csproj.GenerateResource.Cache
 H:\VsTests\Game\Game\obj\Debug\Game.exe
 H:\VsTests\Game\Game\obj\Debug\Game.pdb
+E:\github\flight-simulator-in-drosophila\visionstimulationusingopengl\Game\bin\Debug\Game.exe.config
+E:\github\flight-simulator-in-drosophila\visionstimulationusingopengl\Game\bin\Debug\Game.exe
+E:\github\flight-simulator-in-drosophila\visionstimulationusingopengl\Game\bin\Debug\Game.pdb
+E:\github\flight-simulator-in-drosophila\visionstimulationusingopengl\Game\obj\Debug\Game.Form1.resources
+E:\github\flight-simulator-in-drosophila\visionstimulationusingopengl\Game\obj\Debug\Game.Properties.Resources.resources
+E:\github\flight-simulator-in-drosophila\visionstimulationusingopengl\Game\obj\Debug\VisionStiUsingOpenGL.csproj.GenerateResource.Cache
+E:\github\flight-simulator-in-drosophila\visionstimulationusingopengl\Game\obj\Debug\Game.exe
+E:\github\flight-simulator-in-drosophila\visionstimulationusingopengl\Game\obj\Debug\Game.pdb
+E:\github\flight-simulator-in-drosophila\visionstimulationusingopengl\Game\obj\Debug\VisionStiUsingOpenGL.csprojResolveAssemblyReference.cache
