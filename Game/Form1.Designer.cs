@@ -52,13 +52,14 @@
             this.simpleOpenGlControl1.Location = new System.Drawing.Point(1, 1);
             this.simpleOpenGlControl1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.simpleOpenGlControl1.Name = "simpleOpenGlControl1";
-            this.simpleOpenGlControl1.Size = new System.Drawing.Size(13, 10);
+            this.simpleOpenGlControl1.Size = new System.Drawing.Size(1366, 433);
             this.simpleOpenGlControl1.StencilBits = ((byte)(0));
             this.simpleOpenGlControl1.TabIndex = 0;
+            this.simpleOpenGlControl1.Paint += new System.Windows.Forms.PaintEventHandler(this.simpleOpenGlControl1_Paint);
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(224, 414);
+            this.button1.Location = new System.Drawing.Point(205, 906);
             this.button1.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(100, 27);
@@ -69,7 +70,7 @@
             // 
             // button2
             // 
-            this.button2.Location = new System.Drawing.Point(454, 414);
+            this.button2.Location = new System.Drawing.Point(424, 906);
             this.button2.Margin = new System.Windows.Forms.Padding(4, 3, 4, 3);
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(100, 27);
@@ -84,11 +85,12 @@
             // 
             // pictureBox1
             // 
-            this.pictureBox1.Location = new System.Drawing.Point(1, 17);
+            this.pictureBox1.Location = new System.Drawing.Point(1, 465);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(1366, 310);
+            this.pictureBox1.Size = new System.Drawing.Size(1366, 402);
             this.pictureBox1.TabIndex = 4;
             this.pictureBox1.TabStop = false;
+            this.pictureBox1.Paint += new System.Windows.Forms.PaintEventHandler(this.pictureBox1_Paint);
             // 
             // timer3
             // 
@@ -97,7 +99,7 @@
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(625, 420);
+            this.label3.Location = new System.Drawing.Point(630, 906);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(39, 15);
             this.label3.TabIndex = 5;
